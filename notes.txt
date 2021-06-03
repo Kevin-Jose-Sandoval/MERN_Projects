@@ -3,3 +3,7 @@ npm install react-router-dom
 
 To render the child components between Navigation and Footer, that infomormation they have all components 
 a special property called "children"
+
+npm install react-bootstrap bootstrap
+
+MERN stack 5
